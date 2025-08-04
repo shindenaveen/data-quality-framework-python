@@ -1,0 +1,8 @@
+EmployeeID,Name,Age,Department,Salary,Email
+2,Jane Smith,,HR,68000.0,
+3,Bob Lee,40.0,,82000.0,bob.lee@
+4,Alice Wong,29.0,IT,,alice.Wong@company.com
+5,Chris Hall,33.0,Finance,-9000.0,chris.hall@company
+8,Sarah Johnson,38.0,IT,,sarah.johnson@example.com
+9,David Wilson,29.0,HR,62000.0,davidwilson@
+10,Linda Martinez,,Marketing,70000.0,linda.martinez@example
